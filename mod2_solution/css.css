@@ -32,9 +32,7 @@
 	.box {
 		height: 300px;
 	}
-	.row {
-		height: 310px;
-	}
+	
 }
 
 @media (max-width: 767px) {
